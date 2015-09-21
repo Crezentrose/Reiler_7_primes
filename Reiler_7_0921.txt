@@ -1,0 +1,9 @@
+I have recieved credit for my journals.
+
+Naming files specifically makes things easier for organizing and to find these files 
+while trying to search for these files they will be found. The file name is important
+to organize them and make them easier to find in case you would like to find them 
+or review them for whatever reason.
+
+The command to copy in directory is the pressing of key control k and to paste
+control u. 
